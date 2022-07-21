@@ -210,8 +210,8 @@
 
   - file: "content/05/06_thefuture"
   
-- url: https://donbowen.github.io/slides/ 
-  title: "Slides"
+- part: Slides
+  url: https://donbowen.github.io/slides/ 
  
   
   
