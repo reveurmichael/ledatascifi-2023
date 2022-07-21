@@ -4,9 +4,8 @@
 I recommend bookmarking this page as your go-to when you visit the site!
 
 Key links:
-- [Class announcements, assignment links, and discussion board](https://github.com/orgs/LeDataSciFi/teams/classmates-2022)
-- [If you want me to cover something in the next class, submit your questions here](https://forms.gle/jB6ok11k5Ehid7ap6)
-- [Easy access to slides](https://donbowen.github.io/slides-2022/)
+- [Class announcements, assignment links, and discussion board](https://github.com/orgs/LeDataSciFi/teams/classmates-2023)
+- [Easy access to slides](https://donbowen.github.io/slides/)
 - [My "Class-Notes" repo](https://github.com/donbowen/Class-Notes-920am)
 ```
 
