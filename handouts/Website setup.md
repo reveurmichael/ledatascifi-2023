@@ -1,5 +1,4 @@
 # Setting up a website to show off your work
-### 04/05/2022
 
 ## PURPOSE 
 - Learn how to build a website to show off some cool stuff
@@ -19,8 +18,8 @@
         - Made by https://github.com/julioveracruz/julioveracruz.github.io 
     - https://julioveracruz.github.io/testwebsite/
         - Made by https://github.com/julioveracruz/testwebsite  
-    - https://donbowen.github.io/slides-2022/
-        - Made by https://github.com/donbowen/slides-2022
+    - https://donbowen.github.io/slides/
+        - Made by https://github.com/donbowen/slides
     - https://square.github.io/
         - Made by https://github.com/square/square.github.io 
     - https://yelp.github.io/
