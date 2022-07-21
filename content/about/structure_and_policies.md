@@ -68,5 +68,5 @@ Lehigh University upholds The Principles of Our Equitable Community and is commi
 
 ---
 
-If you've read this far down, congrats! Send me a picture of an otter by Jan 31, 2022 and I'll give you some extra credit. If you're a late add, you have until the day of the second class after you join.  
+If you've read this far down, congrats! Send me a picture of an otter by Jan 31 and I'll give you some extra credit. If you're a late add, you have until the day of the second class after you join.  
 
