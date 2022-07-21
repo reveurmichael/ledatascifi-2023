@@ -172,6 +172,7 @@
         # (opt, future?) exercises (and answers)
         - file: "content/05/02g_summary"           
     - file: "content/05/03_ML"
+      title: "ML - Intro & Discussion"
       sections:
       - file: "content/05/03a_ML_obj_and_tradeoff"    
       - file: "content/05/03c_ModelEval" 
@@ -179,7 +180,8 @@
       - file: "content/05/03d_whatToMax"   # need auc/roc
       - file: "content/05/03e_whichModel"  # need lots more!   
       - file: "content/05/03f_leakage"  
-    - file: "content/05/04a_SKLearn"        
+    - file: "content/05/04a_SKLearn"   
+      title: "ML - Code & Implementation"
       sections:
       - file: "content/05/04b_best_practices" # add extra section for best practices
         title: "Best Practice Pseudo Code"        
