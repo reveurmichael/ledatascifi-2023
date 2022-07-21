@@ -1,5 +1,9 @@
 
-<img src="coverphoto/my_cover_skinny.png" width="70%">
+```{image} coverphoto/my_cover_skinny.png
+:alt: coverphoto
+:width: 70%
+:align: center
+```
 
 ## Welcome to the Spring 2023 Edition of Data Science for Finance!
 
