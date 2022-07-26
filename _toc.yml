@@ -167,6 +167,7 @@
       - file: "content/05/02c_goodnessOfFit"      
       - file: "content/05/02d_interpretingCoefs" 
       - file: "content/05/02e_statisticalSig"     
+      - file: "content/05/02f_warnings"
       # (opt, future?) selection, measurement, omitted variables (HIGH level)
       # (opt, future?) exercises (and answers)
       - file: "content/05/02g_summary"           
