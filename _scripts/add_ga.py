@@ -16,7 +16,7 @@ The plan:
 
 import glob
 
-files = glob.glob("../_build/html/content/**/*.html", recursive=True)
+files = glob.glob("_build/html/content/**/*.html", recursive=True)
 
 # set up find and replace
 
