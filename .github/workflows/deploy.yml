@@ -30,6 +30,11 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build ./
+    
+    # ad-hoc insertion of google analytics (GA4) snippet 
+    - name: add GA4 snippets 
+      run: |
+        python _scripts/add_ga.py        
 
     # Deploy the book's HTML to gh-pages branch
     - name: GitHub Pages action
