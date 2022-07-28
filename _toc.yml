@@ -212,6 +212,10 @@
 
   - file: "content/05/06_thefuture"
     
+- part: Slides
+  chapters:
+  - file: content/slides
+    title: "Slides" 
   
 
 # #########################################################
