@@ -1,3 +1,5 @@
-<iframe src="https://donbowen.github.io/slides/" title="Slides" style="border:none;"  width="100vm" ></iframe> 
+# Slides from previous classes
 
-Hope that works. 
+<iframe src="https://donbowen.github.io/slides/" title="Slides" style="height:800px;width:100%;border:none;overflow:hidden;"></iframe>
+
+This is from this [website](https://donbowen.github.io/slides/), embedded here for your convenience. 
