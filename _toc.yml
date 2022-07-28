@@ -214,8 +214,8 @@
     
 - part: Slides
   chapters:
-  - file: content/slides
-    title: "Slides" 
+  - file: content/slides/slides
+    title: "Previous classes" 
   
 
 # #########################################################
