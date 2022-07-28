@@ -175,11 +175,12 @@
     title: "ML - Intro & Discussion"
     sections:
     - file: "content/05/03a_ML_obj_and_tradeoff"    
+    - file: "content/05/03f_leakage"  
+    - file: "content/05/03f_leakage2"      
     - file: "content/05/03c_ModelEval" 
     - file: "content/05/03c1_OOS"  
     - file: "content/05/03d_whatToMax"   # need auc/roc
     - file: "content/05/03e_whichModel"  # need lots more!   
-    - file: "content/05/03f_leakage"  
   - file: "content/05/04a_SKLearn"   
     title: "ML - Code & Implementation"
     sections:
