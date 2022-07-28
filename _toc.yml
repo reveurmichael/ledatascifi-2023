@@ -45,6 +45,11 @@
   - file: content/assignments/project 
     title: "Final projects"
   
+- part: Slides
+  chapters:
+  - file: content/slides/slides
+    title: "Previous classes" 
+  
 - part: Textbook 
   numbered: true # will number the chapters and sections INSIDE the part(s) below
   chapters:  
@@ -212,10 +217,6 @@
 
   - file: "content/05/06_thefuture"
     
-- part: Slides
-  chapters:
-  - file: content/slides/slides
-    title: "Previous classes" 
   
 
 # #########################################################
